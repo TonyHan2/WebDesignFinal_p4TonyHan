@@ -143,7 +143,7 @@ export default function PricingPage() {
             key={1}
             title="What if I try to get something refunded?"
           >
-            You&aposd be the first!
+            You&apos;d be the first!
           </AccordionItem>
           <AccordionItem key={2} title="Future Plans?">
             We have planned to release a new model of Up-n-Atomizer for many
