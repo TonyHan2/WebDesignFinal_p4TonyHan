@@ -10,21 +10,19 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Sales",
+      href: "/sales_numbers",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Products",
+      href: "/products",
     },
+    /*
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Invincible",
+      href: "/invincible",
     },
-    {
-      label: "About",
-      href: "/about",
-    },
+    */
   ],
   navMenuItems: [
     {
@@ -32,21 +30,19 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Marvel",
+      href: "/marvel",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "DC",
+      href: "/dc",
     },
+    /*
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Invincible",
+      href: "/invincible",
     },
-    {
-      label: "About",
-      href: "/about",
-    },
+    */
   ],
   links: {
     instagram: "#",
